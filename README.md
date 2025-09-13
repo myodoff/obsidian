@@ -1,2 +1,2 @@
 # obsidian
-my obsidian notes
+for collaborate with obsidian notes
